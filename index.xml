@@ -21,6 +21,14 @@
 
 &lt;p&gt;The posts&amp;rsquo; front matter holds only three variables: the date, the tile, and the description. The description is basically the subtitle you see in the main/list page of the theme. In this case, I made it obvious by writing &amp;ldquo;This subtitle is fixed through front matter, heh.&amp;rdquo;&lt;/p&gt;
 
+&lt;h3 id=&#34;post-iterator-pagination&#34;&gt;Post iterator/pagination&lt;/h3&gt;
+
+&lt;p&gt;Pagination is 100% operative, even though you can&amp;rsquo;t see it in this demo. It&amp;rsquo;s set to show 5 post per page, and create navigation buttons below that. Nothing fancy, buy it&amp;rsquo;s one less thing you have to care about. It&amp;rsquo;s actually dead easy to setup, you can just change the following line in the html:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;{{ range (.Paginator 5).Pages }}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;to change the posts shown per page.&lt;/p&gt;
+
 &lt;h3 id=&#34;release-the-kraken-markdown&#34;&gt;Release the &lt;del&gt;kraken&lt;/del&gt; Markdown&lt;/h3&gt;
 
 &lt;p&gt;The beauty of Hugo is it&amp;rsquo;s ease of configuration and the usage of markdown to quickly elaborate fairly rich content, capable of inserting lists, images , links, etc. to your blog/web of choice.&lt;/p&gt;
