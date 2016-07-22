@@ -1,13 +1,18 @@
-# Lunacy
-A minimal Hugo theme.
++++
+
+date = "2016-07-22"
+
+title = "Lunacy 1.0"
+
+description = "The first release of Lunacy is here!"
+
++++
 
 #### Hello, World!
 
 The first release of Lunacy is here! Over the course of several weeks, I've given Hugo a shot again and finally decided to build what I once intended: a personal blog + theme.
 
 This release is a tiny one, and I'm really not very fond of the organisation behind (just take a look at that css stylesheet and you'll know what I mean). However, since I don't really have the time to clean and tidy everything up for the moment, It'll have to do as is.
-
-Check out the demo [here](https://github.com/christat/Lunacy).
 
 ### Wishlist
 
