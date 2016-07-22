@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Lunacy | A minimal hugo theme</title>
-    <link>/blog/</link>
+    <link>https://github.com/christat/Lunacy/blog/</link>
     <description>Recent content in Blogs on Lunacy | A minimal hugo theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/christat/Lunacy/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About lunacy posts</title>
-      <link>/blog/posts/posts/</link>
+      <link>https://github.com/christat/Lunacy/blog/posts/posts/</link>
       <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/posts/posts/</guid>
+      <guid>https://github.com/christat/Lunacy/blog/posts/posts/</guid>
       <description>
 
 &lt;h3 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h3&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Lunacy 1.0</title>
-      <link>/blog/posts/lunacy/</link>
+      <link>https://github.com/christat/Lunacy/blog/posts/lunacy/</link>
       <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/posts/lunacy/</guid>
+      <guid>https://github.com/christat/Lunacy/blog/posts/lunacy/</guid>
       <description>
 
 &lt;h4 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h4&gt;
