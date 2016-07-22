@@ -7,7 +7,7 @@ The first release of Lunacy is here! Over the course of several weeks, I've give
 
 This release is a tiny one, and I'm really not very fond of the organisation behind (just take a look at that css stylesheet and you'll know what I mean). However, since I don't really have the time to clean and tidy everything up for the moment, It'll have to do as is.
 
-Check out the demo [here](https://github.com/christat/Lunacy).
+Check out the demo [here](http://christat.me/Lunacy).
 
 ### Wishlist
 
@@ -19,6 +19,6 @@ For the following release (if any), I'd like to address the following:
 
 ### Contact
 
-Feel free to hit me up over Github, send a pull request or open an Issue (or just rant about how shitty the release is, It's okay).
+Feel free to hit me up, send a pull request or open an Issue (or just rant about how shitty the release is, It's okay).
 
 Thanks for stopping by!
