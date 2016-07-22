@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Lunacy | A minimal hugo theme</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Lunacy | A minimal hugo theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About lunacy posts</title>
+      <link>/blog/posts/posts/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/posts/posts/</guid>
+      <description>
+
+&lt;h3 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h3&gt;
+
+&lt;p&gt;The posts&amp;rsquo; front matter holds only three variables: the date, the tile, and the description. The description is basically the subtitle you see in the main/list page of the theme. In this case, I made it obvious by writing &amp;ldquo;This subtitle is fixed through front matter, heh.&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;release-the-kraken-markdown&#34;&gt;Release the &lt;del&gt;kraken&lt;/del&gt; Markdown&lt;/h3&gt;
+
+&lt;p&gt;The beauty of Hugo is it&amp;rsquo;s ease of configuration and the usage of markdown to quickly elaborate fairly rich content, capable of inserting lists, images , links, etc. to your blog/web of choice.&lt;/p&gt;
+
+&lt;p&gt;I encourage you to try Hugo out, explore a bit and perhaps use my theme or create your own, as it&amp;rsquo;s &lt;strong&gt;really&lt;/strong&gt; easy to get up and running!&lt;/p&gt;
+
+&lt;p&gt;Happy hacking!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lunacy 1.0</title>
+      <link>/blog/posts/lunacy/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/posts/lunacy/</guid>
+      <description>
+
+&lt;h4 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h4&gt;
+
+&lt;p&gt;The first release of Lunacy is here! Over the course of several weeks, I&amp;rsquo;ve given Hugo a shot again and finally decided to build what I once intended: a personal blog + theme.&lt;/p&gt;
+
+&lt;p&gt;This release is a tiny one, and I&amp;rsquo;m really not very fond of the organisation behind (just take a look at that css stylesheet and you&amp;rsquo;ll know what I mean). However, since I don&amp;rsquo;t really have the time to clean and tidy everything up for the moment, It&amp;rsquo;ll have to do as is.&lt;/p&gt;
+
+&lt;h3 id=&#34;wishlist&#34;&gt;Wishlist&lt;/h3&gt;
+
+&lt;p&gt;For the following release (if any), I&amp;rsquo;d like to address the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Remove the clutter/duplicate heading for mobile and web versions: No one wants to maintain duplicate stuff, right? I just have to figure out how to make the styles work properly to avoid glitches.&lt;/li&gt;
+&lt;li&gt;Tidy up the css: No small feat, honestly. I&amp;rsquo;m not proud of that clusterf*ck.&lt;/li&gt;
+&lt;li&gt;General cleanup: I&amp;rsquo;m unsure, but I think all these bootstrap add-ons are not even neccesary, and providing just the required ones would be a better solution I guess.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+
+&lt;p&gt;Feel free to hit me up over Github, send a pull request or open an Issue (or just rant about how shitty the release is, It&amp;rsquo;s okay).&lt;/p&gt;
+
+&lt;p&gt;Thanks for stopping by!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
