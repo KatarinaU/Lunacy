@@ -20,7 +20,7 @@ For the following release (if any), I'd like to address the following:
 
 - Remove the clutter/duplicate heading for mobile and web versions: No one wants to maintain duplicate stuff, right? I just have to figure out how to make the styles work properly to avoid glitches.
 - Tidy up the css: No small feat, honestly. I'm not proud of that clusterf*ck.
-- General cleanup: I'm unsure, but I think all these bootstrap add-ons are not even neccesary, and providing just the required ones would be a better solution I guess.
+- General cleanup: I'm unsure, but I think all these bootstrap add-ons are not even necessary, and providing just the required ones would be a better solution I guess.
 
 ### Contact
 
