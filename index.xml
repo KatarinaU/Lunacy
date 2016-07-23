@@ -23,7 +23,7 @@
 
 &lt;h3 id=&#34;post-iterator-pagination&#34;&gt;Post iterator/pagination&lt;/h3&gt;
 
-&lt;p&gt;Pagination is 100% operative, even though you can&amp;rsquo;t see it in this demo. It&amp;rsquo;s set to show 5 post per page, and create navigation buttons below that. Nothing fancy, buy it&amp;rsquo;s one less thing you have to care about. It&amp;rsquo;s actually dead easy to setup, you can just change the following line in the html:&lt;/p&gt;
+&lt;p&gt;Pagination is 100% operative, even though you can&amp;rsquo;t see it in this demo. It&amp;rsquo;s set to show 5 posts per page, and create navigation buttons below that. Nothing fancy, buy it&amp;rsquo;s one less thing you have to care about. It&amp;rsquo;s actually dead easy to setup, you can just change the following line in the html:&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;{{ range (.Paginator 5).Pages }}&lt;/code&gt;&lt;/p&gt;
 
@@ -60,7 +60,7 @@
 &lt;ul&gt;
 &lt;li&gt;Remove the clutter/duplicate heading for mobile and web versions: No one wants to maintain duplicate stuff, right? I just have to figure out how to make the styles work properly to avoid glitches.&lt;/li&gt;
 &lt;li&gt;Tidy up the css: No small feat, honestly. I&amp;rsquo;m not proud of that clusterf*ck.&lt;/li&gt;
-&lt;li&gt;General cleanup: I&amp;rsquo;m unsure, but I think all these bootstrap add-ons are not even neccesary, and providing just the required ones would be a better solution I guess.&lt;/li&gt;
+&lt;li&gt;General cleanup: I&amp;rsquo;m unsure, but I think all these bootstrap add-ons are not even necessary, and providing just the required ones would be a better solution I guess.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
