@@ -5,7 +5,7 @@ name = "Lunacy"
 license = "MIT"
 licenselink = "https://github.com/christat/Lunacy/blob/master/LICENSE"
 description = "A minimal Hugo theme; Blog-purposed"
-homepage = "http://siteforthistheme.com/"
+homepage = "http://christat.me/Lunacy/"
 tags = ["blog", "pagination", "minimal design", "responsive"]
 min_version = 0.14
 
