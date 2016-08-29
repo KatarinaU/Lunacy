@@ -1,21 +1,21 @@
 # Lunacy
 A minimal Hugo theme.
 
-#### Hello, World!
+###About
 
-The first release of Lunacy is here! Over the course of several weeks, I've given Hugo a shot again and finally decided to build what I once intended: a personal blog + theme.
-
-This release is a tiny one, and I'm really not very fond of the organisation behind (just take a look at that css stylesheet and you'll know what I mean). However, since I don't really have the time to clean and tidy everything up for the moment, It'll have to do as is.
+This theme is my first try on anything Hugo. It is a theme purposed mainly for a blog; you might want to fork it if you need anything more complex. The demo uses a gif on the sidebar, hence the so-so quality. You can try and fiddle with video or static images if you prefer.
 
 Check out the demo [here](http://christat.me/Lunacy).
+
+![thumbnail](https://github.com/christat/Lunacy/blob/master/images/tn.png "Homepage")
+
+
 
 ### Wishlist
 
 For the following release (if any), I'd like to address the following:
-
-- Remove the clutter/duplicate heading for mobile and web versions: No one wants to maintain duplicate stuff, right? I just have to figure out how to make the styles work properly to avoid glitches.
-- Tidy up the css: No small feat, honestly. I'm not proud of that clusterf*ck.
-- General cleanup: I'm unsure, but I think all these bootstrap add-ons are not even neccesary, and providing just the required ones would be a better solution I guess.
+- Remove the clutter (duplicate heading for mobile and web versions, bootstrap doesn't want to help :( )
+- Tidy up the css mess
 
 ### Contact
 
